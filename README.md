@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derickdev6
 - 👀 I’m interested in becoming a data scientist
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on any kind of sodtware that needs react skills for junior front end development
+- 💞️ I’m looking to collaborate on web software development, mainly frontend
 - 📫 Twitter: @derickode
 
 <!---
